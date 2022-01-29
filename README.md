@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -->
 ![Twitter Follow](https://img.shields.io/twitter/follow/mehdiardeshir?style=social)
-
+![linkedin Follow](https://img.shields.io/badge/follow%20mehdiardeshir-with?style=social&logo=linkedin)
 <br>
 <br>
 <br>
