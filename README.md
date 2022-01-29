@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... laravel-wordpress-php
 
 -->
-![Twitter Follow](https://img.shields.io/twitter/follow/mehdiardeshir?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/mehdiardeshir?style=social)<br>
 ![linkedin Follow](https://img.shields.io/badge/follow%20mehdiardeshir-with?style=social&logo=linkedin)
 <br>
 <br>
