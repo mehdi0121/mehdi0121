@@ -20,5 +20,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+![](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=blue)
 ![](https://img.shields.io/badge/larave-white?style=for-the-badge&logo=laravel)
+![](https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=blue)
+![](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=yellow)
+![](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=blue)
+![](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=red)
 
